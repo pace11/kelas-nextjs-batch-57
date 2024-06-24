@@ -18,6 +18,10 @@
   font-family: var(--font-mono);
 }
 
+.box-red {
+  background-color: red;
+}
+
 .description a {
   display: flex;
   justify-content: center;
